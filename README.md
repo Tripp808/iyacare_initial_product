@@ -21,7 +21,7 @@ The project consists of four main components:
 
 ## 🎥 Demo Video
 
-**Watch the IyàCare Platform Demo**: [https://youtu.be/jvk4UHB6UFg](https://youtu.be/jvk4UHB6UFg)
+**Watch the IyàCare Platform Demo**: [https://youtu.be/Kg3l-VpuHo8](https://youtu.be/Kg3l-VpuHo8)
 
 *This demo showcases the complete functionality of the IyàCare platform, including user authentication, dashboard overview, vital signs monitoring, patient management, and AI-powered risk assessment features.*
 
@@ -161,6 +161,7 @@ iyacare_initial_product/
 │   └── maternal_risk_metadata.pkl  # Model metadata
 ├── Notebook/                        # Data science notebooks
 │   └── Oche_Ankeli_Maternal_Health_notebook.ipynb
+├── UI screens                       # Application interface screenshots
 ├── iyacare app/                     # Web application
 │   ├── src/                        # Source code
 │   ├── public/                     # Static assets
